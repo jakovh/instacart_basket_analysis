@@ -5,7 +5,7 @@ The task here was to perform an initial data and exploratory analysis of some of
 to derive insights and suggest strategies for better segmentation based on
 the provided criteria.
 
-Dataset used in this analysis is the open-source data downloaded from https://www.instacart.com/.
+Dataset used in this analysis is the open-source data downloaded from [Instacart](https://www.instacart.com/).
 
 Project folder:
  - 01 Project Management - contains Business Requirements Document
